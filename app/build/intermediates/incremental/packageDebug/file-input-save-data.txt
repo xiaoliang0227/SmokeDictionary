@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 31 15:30:09 CST 2017
+#Wed May 31 17:24:24 CST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/select_dialog_singlechoice_material.xml
 14.set=ANDROID_RESOURCE

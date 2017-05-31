@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=8d0da9cb4b1860ec6eaa1496bdfeb99987cf1923
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

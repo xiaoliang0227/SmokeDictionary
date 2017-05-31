@@ -23,56 +23,29 @@ class MainActivity : AppCompatActivity(), DataInitTask.DataInitTaskCallback {
     private val mOnNavigationItemSelectedListener = BottomNavigationView.OnNavigationItemSelectedListener { item ->
         when (item.itemId) {
             R.id.navigation_mainland -> {
-                showMainlandData()
+                switchFragment("mainland")
                 return@OnNavigationItemSelectedListener true
             }
             R.id.navigation_overseas -> {
-                showForeignData()
+                switchFragment("foreign")
                 return@OnNavigationItemSelectedListener true
             }
             R.id.navigation_none_mainland -> {
-                showHKMTData()
+                switchFragment("HKMT")
                 return@OnNavigationItemSelectedListener true
             }
             R.id.navigation_history -> {
-                showHistoryData()
+                switchFragment("history")
                 return@OnNavigationItemSelectedListener true
             }
         }
         false
     }
 
-    private fun showMainlandData() {
+    private fun switchFragment(brand: String) {
         var fragment: SmokeFragment = SmokeFragment()
         var bundle: Bundle = Bundle()
-        bundle.putString("brand", "mainland")
-        fragment.arguments = bundle
-
-        supportFragmentManager.beginTransaction().replace(R.id.container, fragment).commit()
-    }
-
-    private fun showForeignData() {
-        var fragment: SmokeFragment = SmokeFragment()
-        var bundle: Bundle = Bundle()
-        bundle.putString("brand", "foreign")
-        fragment.arguments = bundle
-
-        supportFragmentManager.beginTransaction().replace(R.id.container, fragment).commit()
-    }
-
-    private fun showHKMTData() {
-        var fragment: SmokeFragment = SmokeFragment()
-        var bundle: Bundle = Bundle()
-        bundle.putString("brand", "HKMT")
-        fragment.arguments = bundle
-
-        supportFragmentManager.beginTransaction().replace(R.id.container, fragment).commit()
-    }
-
-    private fun showHistoryData() {
-        var fragment: SmokeFragment = SmokeFragment()
-        var bundle: Bundle = Bundle()
-        bundle.putString("brand", "history")
+        bundle.putString("brand", brand)
         fragment.arguments = bundle
 
         supportFragmentManager.beginTransaction().replace(R.id.container, fragment).commit()
@@ -109,7 +82,7 @@ class MainActivity : AppCompatActivity(), DataInitTask.DataInitTaskCallback {
             task.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR)
         } else {
             LogUtil.DEBUG(TAG, "非首次使用")
-            showMainlandData()
+            switchFragment("mainland")
         }
 
     }
@@ -120,6 +93,6 @@ class MainActivity : AppCompatActivity(), DataInitTask.DataInitTaskCallback {
      */
     override fun afterDataInitCompleted() {
         LogUtil.DEBUG(TAG, "afterDataInitCompleted")
-        showMainlandData()
+        switchFragment("mainland")
     }
 }
