@@ -80,7 +80,6 @@ class SmokeFragment: Fragment(), AdapterView.OnItemClickListener, AbsListView.On
             if (distance == 0) {
                 lastIndex = count
                 delayShowRefreshLoading()
-                showRefreshLoading()
             }
         }
     }
@@ -88,7 +87,7 @@ class SmokeFragment: Fragment(), AdapterView.OnItemClickListener, AbsListView.On
     private fun delayShowRefreshLoading() {
         handler.postDelayed({
             showRefreshLoading()
-        }, 300)
+        }, 500)
     }
 
     private fun showRefreshLoading() {
