@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/assets"><file name="litepal.xml" path="/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/assets/litepal.xml"/></source><source path="/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/debug/assets"/></dataSet></merger>

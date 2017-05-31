@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">香烟管家</string>
+    <string name="title_mainland">大陆品牌</string>
+    <string name="title_overseas">海外品牌</string>
+    <string name="title_none_mainland">港澳台品牌</string>
+    <string name="title_history">历史品牌</string>
+</resources>

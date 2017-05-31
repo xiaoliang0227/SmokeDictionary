@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_mainland"
+        android:icon="@drawable/ic_branding_watermark_black_24dp"
+        android:title="@string/title_mainland" />
+
+    <item
+        android:id="@+id/navigation_overseas"
+        android:icon="@drawable/ic_branding_watermark_black_24dp"
+        android:title="@string/title_overseas" />
+
+    <item
+        android:id="@+id/navigation_none_mainland"
+        android:icon="@drawable/ic_branding_watermark_black_24dp"
+        android:title="@string/title_none_mainland" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_branding_watermark_black_24dp"
+        android:title="@string/title_history" />
+
+</menu>
