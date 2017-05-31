@@ -10,3 +10,11 @@
 爬数据用的是java 代码，具体代码这里就不展示了
 
 用户体验后续更新中，敬请期待
+
+程序部分屏幕截图：
+
+![Alt text](https://github.com/xiaoliang0227/SmokeDictionary/blob/master/Screenshot_20170531-153429.png)
+![Alt text](https://github.com/xiaoliang0227/SmokeDictionary/blob/master/Screenshot_20170531-153436.png)
+![Alt text](https://github.com/xiaoliang0227/SmokeDictionary/blob/master/Screenshot_20170531-153440.png)
+![Alt text](https://github.com/xiaoliang0227/SmokeDictionary/blob/master/Screenshot_20170531-153445.png)
+![Alt text](https://github.com/xiaoliang0227/SmokeDictionary/blob/master/Screenshot_20170531-153454.png)
