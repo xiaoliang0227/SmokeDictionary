@@ -3,6 +3,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
+def releaseTime() {
+    return new Date().time.hashCode()
+}
+
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
@@ -20,6 +24,17 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+
+    android.applicationVariants.all { variant ->
+            variant.outputs.all { output ->
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                        // 这里修改apk名称
+                        def fileName = outputFile.name.replace("app", "香烟管家_${defaultConfig.versionName}.${defaultConfig.versionCode}_${releaseTime()}")
+                        outputFileName = new File(outputFile.parent, fileName)
+                    }
+            }
     }
 }
 

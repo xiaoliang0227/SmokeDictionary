@@ -1,7 +1,4 @@
-#Wed May 31 17:24:24 CST 2017
-base.0=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/11
-renamed.1=classes2.dex
+#Thu Jun 22 10:47:00 CST 2017
+base.0=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/13
 renamed.0=classes.dex
-file.1=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
-base.1=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/10
-file.0=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex
+file.0=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex
