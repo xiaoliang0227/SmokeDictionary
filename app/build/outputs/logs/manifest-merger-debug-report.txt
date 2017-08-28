@@ -4,21 +4,21 @@ ADDED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/An
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:2:1-37:12
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:2:1-37:12
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:2:1-37:12
-MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:17:1-31:12
-MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/2b60d09df6a23670a05a3b76aa608f47/AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/33a4eb72b2bc569f5c4b03c3f02c0777/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:17:1-28:12
-MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/4aface5afd1857d099269513d2b80d4c/AndroidManifest.xml:2:1-16:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/73f630e97ec88cff34238cc9541a9bd0/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/8a6be6ad0c90838e4b800c854315d62e/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/53e524b35df1d826102cc784afa0418e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:17:1-28:12
+MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/29d18bd53ad8f5e078563b11e1d8ec84/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0793836584bd101c9a887d17c21fe910/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:17:1-31:12
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:2:1-37:12
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:2:1-37:12
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:2:1-37:12
@@ -40,34 +40,34 @@ ADDED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/An
 		ADDED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:7:5-35:19
-MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:29:5-20
-MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/2b60d09df6a23670a05a3b76aa608f47/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/2b60d09df6a23670a05a3b76aa608f47/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/33a4eb72b2bc569f5c4b03c3f02c0777/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/33a4eb72b2bc569f5c4b03c3f02c0777/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:26:5-20
-MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/4aface5afd1857d099269513d2b80d4c/AndroidManifest.xml:11:5-14:19
-MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/4aface5afd1857d099269513d2b80d4c/AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:29:5-20
+MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/8a6be6ad0c90838e4b800c854315d62e/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/8a6be6ad0c90838e4b800c854315d62e/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/53e524b35df1d826102cc784afa0418e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/53e524b35df1d826102cc784afa0418e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:26:5-20
+MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/29d18bd53ad8f5e078563b11e1d8ec84/AndroidManifest.xml:11:5-14:19
+MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/29d18bd53ad8f5e078563b11e1d8ec84/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:29:5-20
 	android:supportsRtl
 		ADDED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
@@ -122,40 +122,40 @@ uses-sdk
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:21:5-23:62
-MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/2b60d09df6a23670a05a3b76aa608f47/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/2b60d09df6a23670a05a3b76aa608f47/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/33a4eb72b2bc569f5c4b03c3f02c0777/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/33a4eb72b2bc569f5c4b03c3f02c0777/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:20:5-43
-MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/4aface5afd1857d099269513d2b80d4c/AndroidManifest.xml:7:5-9:41
-MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/4aface5afd1857d099269513d2b80d4c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/73f630e97ec88cff34238cc9541a9bd0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/73f630e97ec88cff34238cc9541a9bd0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/8a6be6ad0c90838e4b800c854315d62e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.1em0nsOft:LemonBubble4Android:1.0.13] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/LemonBubble4Android-1.0.13.aar/8a6be6ad0c90838e4b800c854315d62e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/53e524b35df1d826102cc784afa0418e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/53e524b35df1d826102cc784afa0418e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:20:5-43
+MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/29d18bd53ad8f5e078563b11e1d8ec84/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:1.5.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/core-1.5.1.aar/29d18bd53ad8f5e078563b11e1d8ec84/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0793836584bd101c9a887d17c21fe910/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0793836584bd101c9a887d17c21fe910/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:21:5-23:58
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
 INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
@@ -163,30 +163,30 @@ INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main
 		INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d48f38c70d699dbb5b9865a3978f6f33/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/628beb0dcb4eb50a21a0c0d80e5a3d5f/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a1c50de9232ff8c381304b371730a934/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/73f630e97ec88cff34238cc9541a9bd0/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/73f630e97ec88cff34238cc9541a9bd0/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/24c5528cd7e00fc3991c247b02922b8d/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9ebfef1249331b5baff694e5dc28be8a/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/740150f155a3c5c29aa24aa7a1d79edb/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b0c32377f04580488ea03d78095d1f55/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d4602a75ed00b735e322146ae1bec3e7/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/34def00d57cd16b8095e0b26f0b4dd0c/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/8606fab15a82a8198aec6e9bf5984191/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2037f1e50253219d222a613b38acda9d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6e7a42115f39192e5141f408cfd1851a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0793836584bd101c9a887d17c21fe910/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0793836584bd101c9a887d17c21fe910/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e7b817f29bd54a89044da8153e87ae7f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d61787f20a7e3ebf0e20aca49fad4ef7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/60bdd03052fc3270c6161df8a7d91f11/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0cd698f3e0981aad93e4d7b6f8760e96/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/3cd088858b7c2142dd944e891e8cfce0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b70e9c14ac934da70e78b613621ef629/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/aa6fd3188e6b00879235f16ce7d9e3cb/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/6018c6ac17e80139c446da2b73376a71/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/919e20e8ba8ec68060aedbc9519be1e5/AndroidManifest.xml:26:9-47

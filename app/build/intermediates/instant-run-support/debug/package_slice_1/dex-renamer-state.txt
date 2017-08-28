@@ -1,4 +1,4 @@
-#Wed May 31 17:24:23 CST 2017
+#Mon Aug 28 11:32:50 CST 2017
 base.0=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/1
 renamed.0=classes.dex
 file.0=/Users/zhaoyongliang/workspace/kotlin/SmokeDictionary/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex

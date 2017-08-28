@@ -17,6 +17,7 @@ import com.demo.zyl.smokedictionary.adapter.SmokeListAdapter
 import com.demo.zyl.smokedictionary.bean.SmokeItemInfo
 import com.demo.zyl.smokedictionary.util.CommonConsts
 import kotlinx.android.synthetic.main.smoke_fragment.*
+import java.util.*
 
 /**
  * Created by zhaoyongliang on 2017/5/27.
@@ -67,7 +68,7 @@ class SmokeFragment: Fragment(), AdapterView.OnItemClickListener, AbsListView.On
     }
 
     override fun onItemClick(parent: AdapterView<*>?, view: View?, position: Int, id: Long) {
-        var intent: Intent = Intent(MainActivity.context, SmokeDetailActivity::class.java)
+        var intent: Intent = Intent(context, SmokeDetailActivity::class.java)
         intent.putExtra("info", data!![position])
         startActivity(intent)
     }
@@ -102,7 +103,7 @@ class SmokeFragment: Fragment(), AdapterView.OnItemClickListener, AbsListView.On
         val table: SmokeItemInfo = SmokeItemInfo()
         val list: MutableList<SmokeItemInfo>? = table.findData(brand!!, smokeList!!.childCount, CommonConsts.PAGE_PER_SIZE)
         if (null != list) {
-            data!!.addAll(list.asIterable())
+            data!!.addAll(list)
         }
         adapter!!.refresh(data!!)
         smokeList?.setSelection(lastIndex - 1)

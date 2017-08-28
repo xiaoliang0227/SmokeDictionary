@@ -13,7 +13,7 @@
         android:label="Tests for com.demo.zyl.smokedictionary"
         android:targetPackage="com.demo.zyl.smokedictionary" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
